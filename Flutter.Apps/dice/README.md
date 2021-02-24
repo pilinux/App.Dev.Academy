@@ -16,7 +16,7 @@ On any Linux machine, download the APK and verify the checksum:
 
 ### About the app
 
-This simple app rolls two dices. Tap one of the dice to roll.
+This simple app rolls two dices. Tap one of the dices to roll.
 
 ![app-outlook][02]
 
@@ -28,7 +28,7 @@ This simple app rolls two dices. Tap one of the dice to roll.
 - Replace default files of the Flutter project with files from this repository
 - Debug and build
 
-Note: To build without null-safety, change `environment` to `sdk: ">=2.7.0 <3.0.0"`
+Note: To build without null-safety, change `environment` to `sdk: ">=2.7.0 <3.0.0"` in `pubspec.yaml` file
 
 App icon and dice images are provided by London App Brewery.
 
