@@ -26,6 +26,6 @@ Home | About Us | Contact
 ![home_page][01] | ![about_us][02] | ![contact][03]
 
 
-[01]: https://cdn.pilinux.me/images/App.Dev.Academy/Flutter.Apps/multiple_screens/Home.png
-[02]: https://cdn.pilinux.me/images/App.Dev.Academy/Flutter.Apps/multiple_screens/AboutUs.png
-[03]: https://cdn.pilinux.me/images/App.Dev.Academy/Flutter.Apps/multiple_screens/Contact.png
+[01]: https://cdn.pilinux.workers.dev/images/App.Dev.Academy/Flutter.Apps/multiple_screens/Home.png
+[02]: https://cdn.pilinux.workers.dev/images/App.Dev.Academy/Flutter.Apps/multiple_screens/AboutUs.png
+[03]: https://cdn.pilinux.workers.dev/images/App.Dev.Academy/Flutter.Apps/multiple_screens/Contact.png
