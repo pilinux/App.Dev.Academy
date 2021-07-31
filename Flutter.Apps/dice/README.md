@@ -33,5 +33,5 @@ Note: To build without null-safety, change `environment` to `sdk: ">=2.7.0 <3.0.
 App icon and dice images are provided by London App Brewery.
 
 
-[01]: https://cdn.pilinux.me/binaries/App.Dev.Academy/Flutter.Apps/dice/app.apk
-[02]: https://cdn.pilinux.me/images/App.Dev.Academy/Flutter.Apps/dice/diceApp.png
+[01]: https://cdn.pilinux.workers.dev/binaries/App.Dev.Academy/Flutter.Apps/dice/app.apk
+[02]: https://cdn.pilinux.workers.dev/images/App.Dev.Academy/Flutter.Apps/dice/diceApp.png
